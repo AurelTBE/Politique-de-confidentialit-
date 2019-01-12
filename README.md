@@ -1,9 +1,10 @@
 # Politique de confidentialité (standard RGPD)
 
 **Sécurité et protection des données personnelles**
+
 **Design your privacy**
 
-##Avertissements
+## Avertissements
 Le présent outil est mis à votre disposition gratuitement. L'outil se base sur des informations fondées sur
 l’analyse professionnelle du cabinet en matière de conformité RGPD. Toutefois, la conformité étant un
 processus dynamique et toute situation étant particulière, les informations transmises doivent être adaptées et
