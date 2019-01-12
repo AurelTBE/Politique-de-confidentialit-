@@ -21,7 +21,8 @@ risques et périls.
 
 **L'Utilisateur** : La personne utilisant le Site et les services.
 
-###### Nature des données collectées**
+###### Nature des données collectées
+
 **Dans le cadre de l'utilisation des Sites, l'Éditeur est susceptible de collecter les catégories de données
 suivantes concernant ses Utilisateurs :**
 
@@ -29,7 +30,7 @@ Données d'état-civil, d'identité, d'identification...
 
 Données de localisation (déplacements, données GPS, GSM...)
 
-###### Communication des données personnelles à des tiers**
+###### Communication des données personnelles à des tiers
 
 Pas de communication à des tiers
 
@@ -37,8 +38,7 @@ Vos données ne font l'objet d'aucune communication à des tiers. Vous êtes tou
 pourront être divulguées en application d'une loi, d'un règlement ou en vertu d'une décision d'une autorité
 réglementaire ou judiciaire compétente.
 
-###### Information préalable pour la communication des données personnelles à des tiers en
-cas de fusion / absorption**
+###### Information préalable pour la communication des données personnelles à des tiers en cas de fusion / absorption
 
 Collecte de l’opt-in (consentement) préalable à la transmission des données suite à une fusion /
 acquisition
@@ -48,7 +48,7 @@ d’actifs, nous nous engageons à obtenir votre consentement préalable à la t
 personnelles et à maintenir le niveau de confidentialité de vos données personnelles auquel vous avez
 consenti.
 
-###### Finalité de la réutilisation des données personnelles collectées**
+###### Finalité de la réutilisation des données personnelles collectées
 
 La gestion des avis des personnes sur des produits, services ou contenus
 
