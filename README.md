@@ -1,7 +1,7 @@
 # Politique de confidentialité (standard RGPD)
 
-###Sécurité et protection des données personnelles
-###Design your privacy
+**Sécurité et protection des données personnelles**
+**Design your privacy**
 
 ##Avertissements
 Le présent outil est mis à votre disposition gratuitement. L'outil se base sur des informations fondées sur
