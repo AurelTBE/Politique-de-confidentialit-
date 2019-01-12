@@ -14,15 +14,20 @@ comme une simple information. En conséquence, vous êtes seul responsable des i
 informations fournies, des conseils que vous en déduisez et des adaptations réalisées pour votre activité
 commerciale propre. L'utilisation et l'exploitation de l'outil se fait donc sous votre seule responsabilité et à vos
 risques et périls.
-Définitions :
-L'Éditeur : La personne, physique ou morale, qui édite les services de communication au public en ligne.
-Le Site : L'ensemble des sites, pages Internet et services en ligne proposés par l'Éditeur.
-L'Utilisateur : La personne utilisant le Site et les services.
-Nature des données collectées
-Dans le cadre de l'utilisation des Sites, l'Éditeur est susceptible de collecter les catégories de données
-suivantes concernant ses Utilisateurs :
+## Définitions :
+**L'Éditeur** : La personne, physique ou morale, qui édite les services de communication au public en ligne.
+
+**Le Site** : L'ensemble des sites, pages Internet et services en ligne proposés par l'Éditeur.
+
+**L'Utilisateur** : La personne utilisant le Site et les services.
+
+**Nature des données collectées**
+**Dans le cadre de l'utilisation des Sites, l'Éditeur est susceptible de collecter les catégories de données
+suivantes concernant ses Utilisateurs :**
 Données d'état-civil, d'identité, d'identification...
+
 Données de localisation (déplacements, données GPS, GSM...)
+
 Communication des données personnelles à des tiers
 Pas de communication à des tiers
 Vos données ne font l'objet d'aucune communication à des tiers. Vous êtes toutefois informés qu'elles
